@@ -1,7 +1,7 @@
 ---
-title: TzuyangHu 胡子阳
+title: Tzuyang Hu 胡子阳
 role: PhD candidate in Computer Science and Technology, Central South University
-avatar_filename: dsc_0347.jpg
+avatar_filename: 胡子阳-600x800.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -53,5 +53,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Ziyang Hu is a doctoral candidate at the National Engineering Laboratory of Digital Medicine, Central South University. His research interests include computer graphics, biomechanics, and deep learning. He received his Bachelor's degree and Master's degree in Mechanics from Huazhong University of Science and Technology in 2018 and 2021, respectively.
+Tzuyang Hu is a PhD candidate at the National Engineering Laboratory of Digital Medicine, Central South University. His research interests include computer graphics, biomechanics, and deep learning. He received his Bachelor's degree and Master's degree in Mechanics from Huazhong University of Science and Technology in 2018 and 2021, respectively.
 {style="text-align: justify;"}
