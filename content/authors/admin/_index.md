@@ -1,7 +1,7 @@
 ---
 title: TzuyangHu 胡子阳
 role: PhD candidate in Computer Science and Technology, Central South University
-avatar_filename: img-a5e861f904bb70d150e35daa1332e743.jpg
+avatar_filename: dsc_0347.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
