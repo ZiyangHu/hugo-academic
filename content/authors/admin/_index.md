@@ -1,7 +1,7 @@
 ---
 title: Tzuyang Hu 胡子阳
 role: PhD candidate in Computer Science and Technology
-avatar_filename: 胡子阳-600x800.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Computer Graphics, Artificial Intelligence,
   Biomechanics, and Deep Learning.
 interests:
