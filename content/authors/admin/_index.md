@@ -1,6 +1,6 @@
 ---
 title: Tzuyang Hu 胡子阳
-role: PhD candidate in Computer Science and Technology, Central South University
+role: PhD candidate in Computer Science and Technology
 avatar_filename: 胡子阳-600x800.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -32,19 +32,19 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Central South University
+    url: https://www.csu.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science and Technology
+      institution: Central South University
+      year: ""
+    - course: MEng in Mechanics
+      institution: Huazhong University of Science and Technology
+      year: 2021
+    - course: BSc in Mechanics
+      institution: Huazhong University of Science and Technology
+      year: 2018
 superuser: true
 status:
   icon: ☕️
