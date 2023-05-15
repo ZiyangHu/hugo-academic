@@ -53,5 +53,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Ziyang Hu is a doctoral candidate at the National Engineering Laboratory of Digital Medicine, Central South University. His research interests include computer graphics, biomechanics, and deep learning. He received his bachelor's degree and Master's degree in mechanics from Huazhong University of Science and Technology in 2018 and 2021, respectively.
+Ziyang Hu is a doctoral candidate at the National Engineering Laboratory of Digital Medicine, Central South University. His research interests include computer graphics, biomechanics, and deep learning. He received his Bachelor's degree and Master's degree in Mechanics from Huazhong University of Science and Technology in 2018 and 2021, respectively.
 {style="text-align: justify;"}
