@@ -39,10 +39,10 @@ education:
     - course: PhD in Computer Science and Technology
       institution: Central South University
       year: ""
-    - course: MEng in Mechanics
+    - course: M.E. in Mechanics
       institution: Huazhong University of Science and Technology
       year: 2021
-    - course: BSc in Mechanics
+    - course: B.E. in Mechanics
       institution: Huazhong University of Science and Technology
       year: 2018
 superuser: true
