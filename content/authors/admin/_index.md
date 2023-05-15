@@ -5,9 +5,10 @@ avatar_filename: img-a5e861f904bb70d150e35daa1332e743.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
+  - Computer Graphics
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Biomechanics
 social:
   - icon: envelope
     icon_pack: fas
@@ -52,6 +53,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ziyang Hu is a doctoral candidate at the National Engineering Laboratory of Digital Medicine, Central South University. His research interests include computer graphics, biomechanics, and deep learning. He received his bachelor's degree and Master's degree in mechanics from Huazhong University of Science and Technology in 2018 and 2021, respectively.
 {style="text-align: justify;"}
