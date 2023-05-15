@@ -38,13 +38,13 @@ education:
   courses:
     - course: Ph.D. in Computer Science and Technology
       institution: Central South University
-      year: ""
+      year: 2022-Present
     - course: M.E. in Mechanics
       institution: Huazhong University of Science and Technology
-      year: 2021
+      year: 2018-2021
     - course: B.E. in Mechanics
       institution: Huazhong University of Science and Technology
-      year: 2018
+      year: 2014-2018
 superuser: true
 status:
   icon: ☕️
