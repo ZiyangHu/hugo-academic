@@ -51,7 +51,7 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Alice
-email: ""
+email: tzuyanghu@gmail.com
 ---
 Tzuyang Hu is a PhD candidate at the National Engineering Laboratory of Digital Medicine, Central South University. His research interests include Computer Graphics, Biomechanics, and Deep Learning. He received his Bachelor's degree and Master's degree in Mechanics from Huazhong University of Science and Technology in 2018 and 2021, respectively.
 {style="text-align: justify;"}
