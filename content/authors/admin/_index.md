@@ -39,7 +39,7 @@ organizations:
   - name: Central South University
     url: https://www.csu.edu.cn/
 education:
-  course:
+  courses:
     - course: Ph.D. in Computer Science and Technology
       institution: [Central South University](https://www.csu.edu.cn/)
       year: 2022-Present
