@@ -42,6 +42,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science and Technology
       institution: Central South University
+	  url: https://www.csu.edu.cn/
       year: 2022-Present
     - course: M.E. in Mechanics
       institution: Huazhong University of Science and Technology
