@@ -147,7 +147,11 @@ sections:
           tag: '*'
         - name: Computer Science
           tag: Computer Science
+<<<<<<< HEAD
         - name: Mechanics
+=======
+		    - name: Mechanics
+>>>>>>> 706f434df5fc53e9327693accc58340822f812fd
           tag: Mechanics
         - name: Other
           tag: Other
@@ -163,7 +167,11 @@ sections:
       subtitle: ''
       text: |-
         # {{< gallery album="demo" >}}
+<<<<<<< HEAD
         {{< gallery album="1" >}}
+=======
+		    {{< gallery album="1" >}}
+>>>>>>> 706f434df5fc53e9327693accc58340822f812fd
     design:
       columns: '1'
   - block: collection
