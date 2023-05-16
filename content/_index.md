@@ -42,7 +42,7 @@ sections:
         - title: Government Staff
           company: Wuhan E.&T. Development Zone
           company_url: 'http://www.whkfq.gov.cn/'
-          company_logo: whetdz
+          company_logo: whetdz1
           location: Wuhan, Hubei Province
           date_start: '2021-07-01'
           date_end: '2022-08-15'
