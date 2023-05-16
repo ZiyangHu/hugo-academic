@@ -11,22 +11,22 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+  #- block: features
+  #  content:
+  #    title: Skills
+  #    items:
+  #      - name: R
+  #        description: 90%
+  #        icon: r-project
+  #        icon_pack: fab
+  #      - name: Statistics
+  #        description: 100%
+  #        icon: chart-line
+  #        icon_pack: fas
+  #      - name: Photography
+  #        description: 10%
+  #        icon: camera-retro
+  #        icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -39,27 +39,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Government Staff
+          company: Wuhan E.&T. Development Zone
+          company_url: 'http://www.whkfq.gov.cn/'
+          company_logo: whetdz
+          location: Wuhan, Hubei Province
+          date_start: '2021-07-01'
+          date_end: '2022-08-15'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Economic Analysis
+              * Industrial Research
+              * Scientific & Technological Innovation
+        #- title: Professor of Semiconductor Physics
+        #  company: University X
+        #  company_url: ''
+        #  company_logo: org-x
+        #  location: California
+        #  date_start: '2016-01-01'
+        #  date_end: '2020-12-31'
+        #  description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -75,30 +75,30 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
+        - certificate_url: https://www.coursera.org/account/accomplishments/verify/7A6AARJMQPMP
+          date_end: '2022-11-09'
+          date_start: '2022-01-21'
+          description: 'A very famous introductory course in machine learning'
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          title: Machine Learning
+          url: 'https://www.coursera.org/specializations/machine-learning-introduction'
+        #- certificate_url: https://www.edx.org
+        #  date_end: ''
+        #  date_start: '2021-01-01'
+        #  description: Formulated informed blockchain models, hypotheses, and use cases.
+        #  organization: edX
+        #  organization_url: https://www.edx.org
+        #  title: Blockchain Fundamentals
+        #  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        #- certificate_url: https://www.datacamp.com
+        #  date_end: '2020-12-21'
+        #  date_start: '2020-07-01'
+        #  description: ''
+        #  organization: DataCamp
+        #  organization_url: https://www.datacamp.com
+        #  title: 'Object-Oriented Programming in R'
+        #  url: ''
     design:
       columns: '2'
   - block: collection
@@ -145,10 +145,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Computer Science
+          tag: Computer Science
+		- name: Mechanics
+          tag: Mechanics
         - name: Other
-          tag: Demo
+          tag: Other
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -213,7 +215,7 @@ sections:
         Whether you have questions about my experience above or want to further communicate with me, don't hesitate to contact me immediately.
       # Contact (add or remove contact options as necessary)
       email: tzuyanghu@gmial.com
-      phone: 888 888 88 88
+      # phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
       address:
         street: No.932 South Lushan Road
@@ -224,8 +226,8 @@ sections:
         country_code: CN
       directions: Office 417 on 4th floor of the Information Building
       office_hours:
-        - 'Weekdays 09:00 to 22:00'
-        - 'Weekends 10:00 to 18:00'
+        - 'Weekdays 09:00 AM to 10:00 PM'
+        - 'Weekends 10:00 AM to 06:00 PM'
       contact_links:
         - icon: twitter
           icon_pack: fab
