@@ -45,6 +45,17 @@ education:
     - course: B.E. in Mechanics
       institution: Huazhong University of Science and Technology
       year: 2014-2018
+education:
+  courses:
+    - course: Ph.D. in Computer Science and Technology
+      institution: Central South University
+      year: 2022-Present
+    - course: M.E. in Mechanics
+      institution: Huazhong University of Science and Technology
+      year: 2018-2021
+    - course: B.E. in Mechanics
+      institution: Huazhong University of Science and Technology
+      year: 2014-2018
 superuser: true
 status:
   icon: ☕️
@@ -53,5 +64,5 @@ highlight_name: true
 first_name: Tzuyang
 email: tzuyanghu@gmail.com
 ---
-Tzuyang Hu is a PhD candidate at the National Engineering Laboratory of Digital Medicine, Central South University. His research interests include Computer Graphics, Biomechanics, and Deep Learning. He received his Bachelor's degree and Master's degree in Mechanics from Huazhong University of Science and Technology in 2018 and 2021, respectively.
+Tzuyang Hu is a PhD candidate at the National Engineering Laboratory of Digital Medicine, Central South University. His research interests include Computer Graphics, Biomechanics, and Deep Learning. He received his Bachelor's degree and Master's degree in Mechanics from [Huazhong University of Science and Technology](https://www.hust.edu.cn/) in 2018 and 2021, respectively.
 {style="text-align: justify;"}
