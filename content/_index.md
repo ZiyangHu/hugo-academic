@@ -147,7 +147,7 @@ sections:
           tag: '*'
         - name: Computer Science
           tag: Computer Science
-		- name: Mechanics
+        - name: Mechanics
           tag: Mechanics
         - name: Other
           tag: Other
@@ -163,7 +163,7 @@ sections:
       subtitle: ''
       text: |-
         # {{< gallery album="demo" >}}
-		{{< gallery album="1" >}}
+        {{< gallery album="1" >}}
     design:
       columns: '1'
   - block: collection
