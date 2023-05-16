@@ -41,13 +41,13 @@ organizations:
 education:
   courses:
     - course: Ph.D. in Computer Science and Technology
-      institution: [Central South University](https://www.csu.edu.cn/)
+      institution: Central South University
       year: 2022-Present
     - course: M.E. in Mechanics
-      institution: [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
+      institution: Huazhong University of Science and Technology
       year: 2018-2021
     - course: B.E. in Mechanics
-      institution: [Huazhong University of Science and Technology](https://www.hust.edu.cn/)
+      institution: Huazhong University of Science and Technology
       year: 2014-2018
 superuser: true
 status:
