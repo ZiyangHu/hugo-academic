@@ -22,7 +22,7 @@ social:
     link: https://twitter.com/TzuyangHu
     label: Follow me on Twitter
     display:
-    header: true
+      header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/
